@@ -1,0 +1,691 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:2:1-372:12
+	xmlns:android
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml
+		INJECTED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml
+		INJECTED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml
+		INJECTED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.1.1] E:\New folder\update\update\SharpenUpStudio\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] E:\New folder\update\update\SharpenUpStudio\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml
+		INJECTED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml
+		INJECTED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:11:7-67
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:11:24-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:13:1-63
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:13:18-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:14:1-74
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:14:18-72
+application
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:16:5-370:27
+MERGED from [com.android.support:appcompat-v7:23.1.1] E:\New folder\update\update\SharpenUpStudio\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] E:\New folder\update\update\SharpenUpStudio\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:18:9-48
+	android:theme
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:20:9-40
+activity#sharpenup.customgridview.homewall
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:21:9-30:20
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:24:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:23:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:24:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:22:13-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:28:27-74
+activity#sharpenup.customgridview.time_table
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:31:9-35:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:34:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:33:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:34:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:32:13-63
+activity#sharpenup.customgridview.home
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:36:13-40:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:39:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:38:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:39:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:37:13-57
+activity#sharpenup.customgridview.Settings
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:41:13-45:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:44:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:43:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:44:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:42:13-61
+activity#sharpenup.customgridview.view_assign
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:46:14-50:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:49:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:48:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:49:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:47:13-64
+activity#sharpenup.customgridview.viewtt_student
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:51:14-56:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:55:13-49
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:53:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:54:13-59
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:52:13-67
+activity#sharpenup.customgridview.viewscores_student
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:57:14-61:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:60:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:59:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:60:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:58:13-71
+activity#sharpenup.customgridview.testview_student
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:62:14-66:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:65:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:64:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:65:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:63:13-69
+activity#sharpenup.customgridview.webview_student
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:67:14-71:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:70:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:69:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:70:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:68:13-68
+activity#sharpenup.customgridview.srudatten_student
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:72:14-76:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:75:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:74:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:75:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:73:13-70
+activity#sharpenup.customgridview.testmenu_student
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:77:13-81:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:80:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:79:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:80:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:78:13-69
+activity#sharpenup.customgridview.MainActivityNew
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:82:13-86:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:85:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:84:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:85:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:83:13-68
+activity#sharpenup.customgridview.MainActivityTeacher
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:87:14-91:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:90:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:89:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:90:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:88:13-72
+activity#sharpenup.customgridview.LoginActivity2
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:92:14-96:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:95:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:94:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:95:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:93:13-67
+activity#sharpenup.customgridview.MainActivity
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:97:14-101:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:100:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:99:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:100:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:98:13-65
+activity#sharpenup.customgridview.LoginActivity
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:102:13-106:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:105:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:104:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:105:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:103:13-66
+activity#sharpenup.androidbegin.viewpagertutorial.view_atten
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:107:13-111:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:110:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:109:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:110:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:108:13-79
+activity#sharpenup.customgridview.ScheduleClass
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:112:13-116:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:115:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:114:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:115:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:113:13-66
+activity#sharpenup.customgridview.Entry
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:117:15-121:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:120:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:119:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:120:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:118:13-58
+activity#sharpenup.androidbegin.viewpagertutorial.Main
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:122:13-126:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:125:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:124:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:125:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:123:13-73
+activity#sharpenup.androidbegin.viewpagertutorial.marksfill
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:127:14-131:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:130:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:129:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:130:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:128:13-78
+activity#sharpenup.androidbegin.viewpagertutorial.ViewPagerAdapter3
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:132:14-136:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:135:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:134:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:135:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:133:13-86
+activity#sharpenup.androidbegin.viewpagertutorial.ViewPagerAdapter4
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:137:13-141:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:140:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:139:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:140:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:138:13-86
+activity#sharpenup.androidbegin.viewpagertutorial.view_scores
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:142:13-146:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:145:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:144:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:145:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:143:13-80
+activity#sharpenup.customgridview.AttendanceActivity
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:147:15-151:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:150:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:149:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:150:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:148:13-71
+activity#sharpenup.customgridview.view
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:152:13-156:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:155:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:154:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:155:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:153:13-57
+activity#sharpenup.customgridview.StudAtten
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:157:13-161:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:160:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:159:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:160:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:158:13-62
+activity#sharpenup.customgridview.attenbuttons
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:162:13-166:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:165:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:164:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:165:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:163:13-65
+activity#sharpenup.customgridview.ChooseClassOrTest
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:167:13-171:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:170:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:169:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:170:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:168:13-70
+activity#sharpenup.customgridview.testSchedule
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:172:13-176:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:175:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:174:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:175:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:173:13-65
+activity#sharpenup.customgridview.testmenu
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:177:13-181:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:180:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:179:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:180:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:178:13-61
+activity#sharpenup.customgridview.testview
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:182:13-186:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:185:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:184:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:185:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:183:13-61
+activity#sharpenup.customgridview.assignfac
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:187:13-191:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:190:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:189:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:190:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:188:13-62
+activity#sharpenup.customgridview.marks_assign
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:192:14-196:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:195:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:194:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:195:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:193:13-65
+activity#sharpenup.customgridview.upload
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:197:13-201:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:200:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:199:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:200:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:198:13-59
+activity#sharpenup.customgridview.webview
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:202:14-206:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:205:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:204:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:205:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:203:13-60
+activity#sharpenup.customgridview.viewscores
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:207:13-211:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:210:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:209:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:210:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:208:13-63
+activity#sharpenup.worksheet.Wsubmission
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:212:1-216:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:215:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:214:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:215:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:213:13-59
+activity#sharpenup.worksheet.AdminWorksheet
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:218:14-222:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:221:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:220:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:221:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:219:13-62
+activity#sharpenup.worksheet.AddTopics
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:225:15-229:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:228:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:227:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:228:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:226:13-57
+activity#sharpenup.worksheet.WorksheetActivity
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:230:13-234:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:233:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:232:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:233:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:231:13-65
+activity#sharpenup.worksheet.TeacherLogin
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:237:15-241:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:240:49-85
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:239:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:240:2-48
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:238:13-60
+activity#sharpenup.worksheet.TeacherSubmission
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:245:15-249:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:248:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:247:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:248:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:246:13-65
+activity#sharpenup.worksheet.TeacherCheck
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:254:17-258:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:257:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:256:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:257:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:255:13-60
+activity#sharpenup.worksheet.TeacherSelect
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:259:17-263:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:262:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:261:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:262:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:260:13-61
+activity#sharpenup.worksheet.Percent_submissions
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:265:18-269:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:268:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:267:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:268:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:266:13-67
+activity#sharpenup.worksheet.Percent_completions
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:271:19-275:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:274:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:273:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:274:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:272:13-67
+activity#sharpenup.worksheet.User
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:276:16-280:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:279:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:278:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:279:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:277:13-52
+activity#sharpenup.worksheet.UserLogin
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:283:23-287:24
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:286:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:285:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:286:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:284:13-57
+activity#sharpenup.previous.sharpenup.LoginData
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:290:15-294:20
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:293:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:292:13-38
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:293:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:291:13-66
+activity#sharpenup.previous.sharpenup.Pendings
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:295:13-299:20
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:298:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:297:13-38
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:298:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:296:13-65
+activity#sharpenup.previous.sharpenup.MainData
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:300:9-304:20
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:303:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:302:13-38
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:303:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:301:13-65
+activity#sharpenup.previous.sharpenup.buttons
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:305:9-309:20
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:308:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:307:13-38
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:308:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:306:13-64
+activity#sharpenup.previous.sharpenup.admin
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:313:9-317:20
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:316:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:315:13-38
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:316:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:314:13-62
+activity#sharpenup.previous.sharpenup.delete
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:320:9-325:20
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:324:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:323:13-38
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:324:14-60
+	android:theme
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:322:13-53
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:321:13-63
+activity#sharpenup.previous.sharpenup.SearchActivity
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:330:10-336:20
+	android:windowSoftInputMode
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:333:13-55
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:334:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:332:13-45
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:334:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:331:13-71
+activity#sharpenup.previous.sharpenup.SearchResults
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:337:10-341:20
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:340:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:339:13-38
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:340:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:338:13-70
+activity#sharpenup.customgridview.NotificationManagement
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:342:11-346:20
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:345:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:344:13-38
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:345:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:343:13-75
+activity#sharpenup.customgridview.ObserveTool
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:347:11-352:20
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:351:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:350:13-38
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:351:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:348:13-64
+activity#sharpenup.customgridview.ObserveToolEntry
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:353:12-358:20
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:357:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:356:13-38
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:357:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:354:13-69
+activity#sharpenup.customgridview.ChildReport
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:359:10-364:20
+	android:screenOrientation
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:363:61-97
+	android:label
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:362:13-38
+	android:configChanges
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:363:14-60
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:360:13-64
+service#sharpenup.customgridview.MyService
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:367:7-67
+	android:enabled
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:367:16-38
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:367:39-64
+receiver#sharpenup.customgridview.MyBroadcastReceiver
+ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:368:8-369:20
+	android:name
+		ADDED from E:\New folder\update\update\SharpenUpStudio\app\src\main\AndroidManifest.xml:368:18-52

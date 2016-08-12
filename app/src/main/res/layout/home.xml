@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffc966"
+    android:orientation="vertical" >
+
+    <ImageButton
+        android:id="@+id/studentlogin"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:background="@drawable/s"
+        android:text="Mark Attendance"
+        android:textColor="#fff"
+        android:textSize="30sp" />
+
+    <ImageButton
+        android:id="@+id/proflogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.50"
+        android:textColor="#fff"
+     
+        android:background="@drawable/prof"
+        android:textSize="30sp"
+        android:text="View Attendance" />
+
+</LinearLayout>
